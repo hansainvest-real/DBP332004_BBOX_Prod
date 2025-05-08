@@ -60,5 +60,6 @@
   <ItemGroup>
     <Build Include="SQL_Server_Agent_dbp332004.sql" />
     <Build Include="SendStatusMail_dbp332004.sql" />
+    <Build Include="SQL_Server_Agent_dbp332003.sql" />
   </ItemGroup>
 </Project>
